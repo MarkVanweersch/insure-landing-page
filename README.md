@@ -12,11 +12,7 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -39,8 +35,8 @@ Desktop:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor.io](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8/hub/insure-landing-page-mobile-first-design-2z5twuEDB4)
+- Live Site URL: [MarkVanweersch.GitHub.io](https://markvanweersch.github.io/insure-landing-page/)
 
 ## My process
 
